@@ -1,0 +1,17 @@
+.context-menu {
+    position: absolute;
+    z-index: 100;
+    background: #fff;
+    color: #212529;
+    width: 100px;
+    left: 120px;
+}
+
+.context-menu > div {
+    padding: 5px;
+}
+
+.context-menu > div:hover {
+    color: aqua;
+    cursor: pointer;
+}

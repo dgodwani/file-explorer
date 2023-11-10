@@ -1,0 +1,22 @@
+.directory {
+    color: #d8e0f0;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.directory-content {
+    padding-left: 15px;
+}
+
+.title-container {
+    display: flex;
+}
+
+.title {
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.directory .title:hover{
+    color: aqua;
+}

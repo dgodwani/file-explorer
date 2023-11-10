@@ -1,0 +1,12 @@
+.file {
+    display: flex;
+}
+
+.file-title {
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.file-title:hover {
+    color: aqua;
+}
